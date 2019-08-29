@@ -1,0 +1,7 @@
+Application: Hangman
+Version: 1.0
+ 
+IMPORTANT:  The application includes images and audio files from websites that give free access to the their resource.
+Images from : https://www.iconsdb.com/ which mentions that "You may not sell, make it available for download or distribute this icon in any size, type, form on any other icon site"
+
+Audio files from https://www.zapsplat.com/ in which the use age of audio files needs Attribution which is done in the legal section of the about page in the application with a direct link to the website's license agreement. 

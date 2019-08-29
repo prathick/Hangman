@@ -1,0 +1,146 @@
+Change log:
+
+1. Created the project and added necessary files.
+2. Added Home screen(landing page) and added css to the home screen.
+3. Added new fonts to be used in the application
+
+April 9th 2018:
+
+1. Added screen two (selection of player modes)
+2. Did styling of the second screen.
+
+April 11th 2018
+
+1. Added the third screen.
+2. created an array with the list of words for the single player game mode.
+3. generated random word from it on single player game selection.
+
+April 12th 2018
+
+1. Modified the inputs for the single player game mode. 
+2. created an array which contains the randomly generated word, length of the word and an nested array which contains letters and its position.
+3. used for loops to loop the randomly generated word and extract each and every letter with the position of the word.
+
+
+April 16th 2018
+
+1. created a unordered list and added list item based on the number of letters in the randomly generated word
+2. designed the list in such way it looks like sequence of dashes based on the hangman game.
+
+April 18th 2018
+
+1. Created a JavaScript canvas for drawing the hangman doodle using lines.
+2. Explored several methods to draw using a canvas on google.
+
+April 20th 2018
+
+1. Drew a hangman game style doodle that will be useful when in correct guesses are made during the game play
+2. made few UI changes on the game page.
+
+April 24th 2018
+1. Adding key pad for the the player to key in the guess
+2. Fixing bugs in the application.
+
+April 26th 2018
+1. Styling the keypad to make it look like keyboard.
+2. Fixing bugs (game screen canvas errors)
+
+April 28th 2018
+1. Adding Functionality to validate guesses to the current randomly selected words
+
+April 29th 2018
+1. Minor bug fixes on the checking guesses functionality
+2. finished Checking guesses complete flow.
+
+April 30th 2018
+
+1. Added headers to the single player game screen
+2. Added static time, score, hint button on the headers
+3. Css fixes to the screen
+
+May 1st 2018
+
+1. Converted game screens from static HTML pages inside body tag to dynamic content.
+2. added a separate JS file called pages which consists of all the pages of the application.
+3. bug fixes on the new changes
+
+May 2nd 2018
+
+1. Added a time functionality to the header which calculates the elapsed time during the game play. 
+2. Added points to each guess and displayed a sum of the points as score on the game screen header.
+3. working game win and lose functionality.
+
+May 3rd 2018
+
+1. Added a modal pop up using simple HTML and JS that displays the if the player wins or loses.
+2. Working on win and lose functionality.
+
+May 5th 2018
+
+1. Finished win and lose functionality with a modal pop displayed with information of win or lose.
+2. Added reset function that is called if the game is won or the play loses and presses pay gain.
+
+May 6th 2018
+
+1. Added audio files to the game in sounds folder.
+2. The game now plays different sounds for right guesses, wrong guesses, game won and game lost. 
+3. the audio functions have minor bugs which are being fixed. 
+
+
+May 8th 2018
+
+1. Made changes to page three to accommodate multi player game mode.
+2. searching web for complex words for the game's word list
+
+
+May 10th 2018
+
+1. Creating pop ups to get word from payer one and fixing UI issues.
+2. Worked on multi player game functionality. 
+3. created full flow for multi player game mode.
+
+May 11th 2018
+
+1. completed multiplayer game mode. 
+2. working on elapsed time functionality to estimate time for each game. 
+3. creating work flow for hint functionality. 
+
+May 12th 2018
+
+1. Added hint functionality to the game. 
+2. Trying to fix bugs from hint functionality.
+
+May 14th 2018:
+
+1. added new screen to display categories for the player to choose from. 
+2. modified the wordList array into a nested array will categories and respective words.
+3. changed the work flow based on the category.
+
+May 15th 2018
+
+1. Fixed UI bugs for various screen resolutions. 
+2. Added media queries to fix the bugs.
+
+May 16th 2018
+
+1. Added an about page which contains the app information and legal information with hyperlinks to the websites from which the image and audio sources where used.
+
+2. created home button functionality to the entire application. 
+
+May 17th 2018
+
+1. Added pause functionality. Player can now pause the game or quit the game if he/she feels like
+
+2. Added new playSound and stopSound functions to play and pause audio seamlessly.
+
+3. Added comments explaining each function and variables in the application.
+
+May 18th 2018
+
+1. Updating readme file with all the api references and overview of the application. 
+
+2. Added a video about explaining the application.
+
+
+
+
