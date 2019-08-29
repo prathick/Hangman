@@ -1,5 +1,4 @@
 Name: Prathic Srinivas
-Student Id: 217396812
 
 overview: 
 
